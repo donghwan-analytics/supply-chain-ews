@@ -1,0 +1,8 @@
+[
+  {
+    "file": "R/06_shr_validation_and_comparison.R",
+    "original_sha256": "eb856ff27716d3306e9e730b2e52b4fd5486874be78e34a8f6b9087ee3501d94",
+    "prepared_sha256": "fb33fd2a710ac2c59f8baccfef46141bb0c9a41ba3872724a076a4e96fa9b74f",
+    "change": "PROJECT_DIR을 환경변수 또는 작업 폴더로 설정. 계산 로직 유지."
+  }
+]
